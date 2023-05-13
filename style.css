@@ -1,0 +1,34 @@
+*{margin:0;
+padding:0;
+box-sizing:border-box}
+
+.container{width:90%;
+margin:auto;
+padding-top:100px}
+
+.flex{display:flex}
+
+.col1{width:50%;
+padding:0 10px;
+background-color:white}
+
+.col2{width:50%;
+padding:0 10px;
+background-color:white}
+
+hr{width:10%;
+
+border:2px solid yellow;}
+
+.flex2{display:flex;
+gap:4%;
+padding:5px 0px}
+
+span{color:gray}
+
+.icon{font-size:40px;
+color:yellow;
+padding-top:13px}
+
+
+.padding{}
